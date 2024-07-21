@@ -33,3 +33,5 @@ export default {
 # Steps :
 
 npm i @clerk/clerk-react
+
+npm i react-table
