@@ -1,0 +1,11 @@
+{
+  "name": "mernapp",
+  "version": "1.0.0",
+  "description": "-install nvm -curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash -nvm install <version>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
