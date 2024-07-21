@@ -10,5 +10,5 @@ export default defineConfig({
     },
   },
 
-  base: "/mernapp/client/vite-project",
+  base: "/mernapp/",
 });
